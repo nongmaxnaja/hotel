@@ -1,0 +1,12 @@
+<form model="cenema">
+    <separator string="Cenema"/>
+    <group span="6" columns="1">
+         <field name="cenema"/>
+         <field name="price"/>
+         <field name="lines">
+             <list>
+                 <field name="movie_id"/>
+             </list>
+         </field>
+    </group>
+</form>

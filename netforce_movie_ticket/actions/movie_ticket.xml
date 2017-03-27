@@ -1,0 +1,7 @@
+<action>
+    <field name="string">Movie Ticket</field>
+    <field name="view_cls">multi_view</field>
+    <field name="model">movie.ticket</field>
+    <field name="modes">list,form</field>
+    <field name="menu">movie_ticket_menu</field>
+</action>

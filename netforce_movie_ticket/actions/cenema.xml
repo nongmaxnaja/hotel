@@ -1,0 +1,7 @@
+<action>
+    <field name="string">Cenema</field>
+    <field name="view_cls">multi_view</field>
+    <field name="model">cenema</field>
+    <field name="modes">list,form</field>
+    <field name="menu">movie_ticket_menu</field>
+</action>

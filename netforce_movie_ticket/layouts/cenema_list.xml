@@ -1,0 +1,4 @@
+<list model="cenema">
+    <field name="cenema"/>
+    <field name="price"/>
+</list>

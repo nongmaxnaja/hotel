@@ -1,0 +1,7 @@
+<form model="seat">
+    <separator string="Ticket Movie"/>
+    <group span="6" columns="1">
+        <field name="seat"/>
+        <field name="price"/>
+    </group>
+</form>

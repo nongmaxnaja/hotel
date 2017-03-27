@@ -1,0 +1,9 @@
+<list model="movie.ticket">
+    <field name="contact_id"/>
+    <field name="cenema_id"/>
+    <field name="movie_id"/>
+    <field name="seat_id"/>
+    <field name="price"/>
+    <field name="count"/>
+    <field name="amount"/>
+</list>

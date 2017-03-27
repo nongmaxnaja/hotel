@@ -1,0 +1,17 @@
+<menu string="Movie ticket">
+<!--<item string="menu">-->
+<!--<item string="ticket" action="movie_ticket"/>-->
+<!--<item string="test" action="#"/>-->
+<!--<item string="test" action="#"/>-->
+<!--<item string="test" action="#"/>-->
+<!--</item>-->
+    <item string="Ticketing" action="movie_ticket"/>
+    <!--<item string="new" action="movie_ticket_new"/>-->
+    <item string="Settings">
+        <item string="Cenema" action="cenema"/>
+        <item string="Movie" action="movie"/>
+        <!--<item string="Level" action="level"/>-->
+        <item string="Seat" action="seat"/>
+        <!--<item string="Time" action="time"/>-->
+    </item>
+</menu>

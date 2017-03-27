@@ -1,0 +1,4 @@
+<list model="seat">
+    <field name="seat"/>
+    <field name="price"/>
+</list>

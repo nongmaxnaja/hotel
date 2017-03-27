@@ -1,0 +1,4 @@
+<list model="movie">
+    <field name="movie"/>
+    <field name="price"/>
+</list>

@@ -1,0 +1,16 @@
+<form model="movie.ticket">
+    <head>
+    <!--<field name="state"/>-->
+        <button string="Print" icon="print" action="report_template_form"/>
+    </head>
+    <separator string="Movie Ticket"/>
+    <group form_layout="stacked">
+        <field name="contact_id" span="2" onchange="update_price"/>
+        <field name="count" span="2" onchange="update_price"/>
+        <field name="cenema_id" span="2" onchange="update_price"/>
+        <field name="movie_id" span="2" onchange="update_price"/>
+        <field name="seat_id" span="2" onchange="update_price"/>
+        <field name="price" span="2"/>
+        <field name="amount" span="2" onchange="update_price"/>
+    </group>
+</form>
